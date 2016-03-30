@@ -28,3 +28,7 @@ alias go='git checkout '
 alias gk='gitk --all&'
 alias gx='gitx --all'
 
+#emacs
+alias e='emacsclient -t'
+alias ec='emacsclient -c'
+
