@@ -109,3 +109,4 @@ export PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/
 
 # prompt
 source .bash_prompt
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
