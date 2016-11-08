@@ -32,3 +32,13 @@ alias gx='gitx --all'
 alias e='emacsclient -t'
 alias ec='emacsclient -c'
 
+# cbt
+alias ssh4='ssh -A -p10022 horizon4.clearbluetechnologies.com'
+alias ssh1='ssh -A -p10022 10.0.1.231'
+alias ssh2='ssh -A -p10022 10.0.1.232'
+alias ssh3='ssh -A -p10022 10.0.1.233'
+alias ssh210='ssh -A root@10.0.2.210'
+alias ssh211='ssh -A root@10.0.2.211'
+alias ssh212='ssh -A root@10.0.2.212'
+alias ssh213='ssh -A root@10.0.2.213'
+alias ssh214='ssh -A root@10.0.2.214'
