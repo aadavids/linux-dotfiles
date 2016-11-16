@@ -114,6 +114,7 @@ alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 export SODIUM_PATH=/usr/libavr32/avr32libsodium/
 export PATH=$PATH:$HOME/tools/avr32-tools/bin
 
+export TERM=xterm-256color
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export INPUTRC=/etc/inputrc
