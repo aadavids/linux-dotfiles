@@ -111,4 +111,9 @@ export PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/
 source $HOME/.bash_prompt
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 
-export TERM=xterm
+export SODIUM_PATH=/usr/libavr32/avr32libsodium/
+export PATH=$PATH:$HOME/tools/avr32-tools/bin
+
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+export INPUTRC=/etc/inputrc
